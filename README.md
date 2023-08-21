@@ -1,6 +1,8 @@
 # pyhasher
 ========
 
+project is archived and read-only
+
 Version 2.7.4
     
 
